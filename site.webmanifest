@@ -1,7 +1,7 @@
 {
-  "name": "Dang's App",
-  "short_name": "Dang's App",
-  "description": "Github Page for Dang's App",
+  "name": "Movie app",
+  "short_name": "Movie",
+  "description": "Github Page for Movie App",
   "scope": "/ICS2O-PWA-Test/",
   "start_url": "https://mths-icd2o-1-2023.github.io/ICD2O-Unit-5-03-dang-2nguyen/",
   "permissions": [ 
